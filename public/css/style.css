@@ -1,0 +1,179 @@
+
+.label{
+    font-weight:bold;
+}
+/*INDEX STYLE*/
+.errores{
+  position:absolute;
+  top:35%;
+  left:2%;
+    
+}
+  .orientacion{
+    top:35%;
+    left:10%;
+    position: fixed;}  
+
+.contenido{
+    position:fixed;
+    top:30%;
+    height: 100%;
+}
+.container{
+    position: absolute;
+    top:22%;
+}
+.send{
+   left:10%;
+}
+.banner{
+    height: 20%;
+    position:absolute;
+}
+
+.linename{
+   font-size: 72pt;
+   font-weight: bolder;
+   position: absolute;
+   
+}
+.pie{
+    position: absolute;
+    top:85%;
+    left: 40%;
+}
+/*END OF INDEX*/
+.config{
+    position: relative;
+    float:left;
+    top:90%;
+    left:2%;
+}
+/*PRODUCTION OUTPUT STYLE*/
+.reporte{
+    top:30%;
+    left:5%;
+    font-size: 14pt;
+}
+.nuevo{
+
+    float:right;
+    
+}
+.inicio{
+    top:30%;
+    left:40%;
+}
+.general{
+    background-color:#FFA500;
+    border-radius: 20px;
+    position: fixed;
+    border: #000000 solid 3px;
+}
+.hxh{
+    background-color:#FFA500;
+    border-radius: 20px;
+    border: #000000 solid 3px;
+}
+
+/*END OF PRODUCTION OUTPUT*/
+
+/*DWCR STYLE*/
+.dwcr{
+    background-color: #B2B2CC;
+    border-radius: 30px;
+    border: 3px solid #797989;
+    height: 600px;
+    width: 60%;
+    position: relative;
+    top:35%;
+    left:20%;
+}
+.now{
+    color:#33D633;
+    border-radius: 30px;
+    top:20%;
+    left: 5%;
+    font-size:1400%;
+    text-align: center;
+}
+.nowr{
+    color:#FF0000;
+    border-radius: 30px;
+    top:20%;
+    left: 5%;
+    font-size:1400%;
+    text-align: center;
+}
+.best{
+    color:#33D633;
+    border-radius: 30px;
+    top: 20%;
+    left:15%;
+    font-size: 650%;
+    text-align: center;
+}
+.data{
+    top:10%;
+    left:5%;
+}
+
+.target{
+    border-radius: 30px;
+    top:55%;
+   font-size: 650%;
+   right: 10%;
+   text-align: center;
+}
+.dias{
+    font-size: 150%;
+    position: absolute;
+    bottom: 0%;
+    font-weight: bold;
+    left: 10%;
+}
+.dwcrbtn{
+    position: absolute;
+    top: 30%;
+    left:10%;
+}
+/*END OF DWCR STYLE*/
+
+/*ACTION PLAN STYLE*/
+.ap{
+margin-left:55%;
+    position: absolute;
+    margin-top:-4%;
+
+}
+.editar{
+    margin-left: 40%;
+}
+/*END*/
+
+/*MCCR STYLE*/
+.mccr{
+    border: 5px solid #c0c0c0;
+    margin: 10px;
+    border-radius: 30px;
+}
+.mccrtitle{
+    text-align: center;
+    font-weight: bold;
+    color: #616365;
+    margin-left: 10px;
+
+}
+/*JIDOKA STYLE*/
+
+.bmccr{
+    float: right;
+}
+/*END*/
+html{
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+    

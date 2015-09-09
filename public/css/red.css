@@ -1,0 +1,7 @@
+body{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    border: 30px solid #FF0000;
+    min-height: 100%;    
+}
